@@ -19,23 +19,5 @@
   "rules": {
     "prettier/prettier": "error",
     "no-unexpected-multiline": "warn"
-    // "import/no-unresolved": [
-    //   "error",
-    //   {
-    //     "plugins": [
-    //       "module-resolve",
-    //       {
-    //         "alias": {
-    //           "@routes": "./src/routes",
-    //           "@controllers": "./src/controllers",
-    //           "@utils": "./src/utils",
-    //           "@models": "./src/models",
-    //           "@services": "./src/services",
-    //           "@middlewares": "./src/middlewares"
-    //         }
-    //       }
-    //     ]
-    //   }
-    // ]
   }
 }

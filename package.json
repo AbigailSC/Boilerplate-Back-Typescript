@@ -16,6 +16,7 @@
   "lint-staged": {
     "*.ts": [
       "npm run format",
+      "commitlint -e",
       "npm run lint:fix"
     ]
   },
